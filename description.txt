@@ -1,0 +1,20 @@
+## PROJETO
+
+- Duplinha ou não;
+- Escolha um dataset de sua preferência (Kaggle, UCI,...);
+- https://www.kaggle.com/datasets;
+- https://archive.ics.uci.edu/datasets;
+- Coloque-o no postgres (como? ...) (DESAFIO); 
+- ter mais de uma tabela (necessario joins)
+- Usando o Jupyter notebook, faça uma análise descritiva;
+    - Qual as tipagens das colunas?;
+    - Quantos nulos temos em cada coluna?;
+    - Quantos valores únicos temos nas colunas categoricas?;
+    - ...;
+- Ainda no Jupyter, faça 10 perguntas ao seu dataset e responda-as com querys;
+    - Qual o top 10 vendas?;
+    - Qual o top 5 clientes?;
+    - Qual medida é minoria?;
+    - ...;
+- Organize tudo em um relatório em arquivo jupyter e ou envie o HTML no LMS ou disponibilize o link do GitHub também no LMS.;
+- Entregar até dia 15/03 as 23h59 aruams@gmail.com
