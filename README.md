@@ -2,6 +2,7 @@
  Projeto final do curso de SQL da ADA \
  Autores: \
  Lucas Meirelles e \
- Carolina Rutili de Lima
+ Carolina Rutili de Lima \
+ Raphael Giffoni Vieira Silva 
  
  
